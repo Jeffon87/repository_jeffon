@@ -6,8 +6,8 @@
        sync-c="true"
        sync-j="4" />
   <!-- SimpleAlgrithm projects -->
-  <project name="Jeffon87/SimpleAlgorithm" revision="MyTestTmp_TestFramwork" remote="private">
+  <project path="SimpleAlgorithm" name="Jeffon87/SimpleAlgorithm" revision="MyTestTmp_TestFramwork" remote="private">
   </project>
-  <project path="opensource" name="michaelrsweet/mxml" remote="github">
+  <project path="SimpleAlgorithm/opensource/xml" name="michaelrsweet/mxml" revision="master" remote="github">
   </project>
 </manifest>
